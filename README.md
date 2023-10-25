@@ -1,4 +1,4 @@
-## Project name : Containerization
+## Project name : Department-Website-Revamp
 
 ## Description
 1. The Main Aim Is Give NITK Department's website a fresh makeover.
