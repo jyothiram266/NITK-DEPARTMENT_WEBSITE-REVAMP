@@ -7,12 +7,14 @@
   - HTML
   - Tailwind Css
   - Flowbite  ``` https://flowbite.com ```
-  - Color pal
+  - Codepen
 ## installing the Tailwind Css
 ``` bash 
     npm install -D tailwindcss
     npx tailwindcss init
 ```
+## Opening the Project
+ - open index2.html
 ## Building the Nav bar 
  - The below Code is used for contruct the Navigation Bar Using Flow Bite Design
         
