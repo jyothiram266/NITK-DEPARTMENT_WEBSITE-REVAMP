@@ -162,6 +162,12 @@
 -  Reference  ```https://www.nitk.ac.in/departments-and-centers ```
 - w3school for css 
 
+# The Further Updates
+
+ - Adding dark mode toggle
+ - responsive to mobilephone
+ - adding some more section
+   
 # The Output
 - Drive link : ```https://drive.google.com/file/d/1tX8IOiGMUD9wyzU1YfIh4Pi7DSpZFqHI/view?usp=sharing```
 
