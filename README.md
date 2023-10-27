@@ -1,5 +1,7 @@
 ## Project name : Department-Website-Revamp
-
+## The Website View
+ 
+ ```https://jyothiram266.github.io/WEB-TASK-DEPARTMENT_WEBSITE-REVAMP/```
 ## Description
 1. The Main Aim Is Give NITK Department's website a fresh makeover.
 2. The Main Priority is UI/UX Design And Responsive.
